@@ -34,4 +34,4 @@ Global Forest Watch
 
 ## Tableau File
 
-The interactive dashboard can be opened using:
+Requires **Tableau Public or Tableau Desktop**.
